@@ -1,12 +1,241 @@
-<h1 align="center">Hi 👋, I'm Ankit Padit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **prajapatiankit071@gmail.com**
+<!--
+  ANKIT PADIT - GITHUB PROFILE README
+  GitHub: Ankitpadit
+-->
 
-<h3 align="left">Connect with me:</h3>
+<!-- ==================== HEADER ==================== -->
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ankit%20Padit&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Ankit Padit banner"/>
+
+  <h1>Hi 👋, I'm Ankit Padit</h1>
+
+  <h3>Frontend Developer | CSE Student | AI/ML Enthusiast</h3>
+
+  <p>
+    I build responsive web applications and explore AI-powered solutions.
+    <br/>
+    Currently learning, building, and improving through real-world projects.
+  </p>
+
+  <p>
+    <a href="https://github.com/Ankitpadit">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ankit-padit-584a142a1/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:prajapatiankit071@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Ankitpadit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
+
+---
+
+<!-- ==================== ABOUT ME ==================== -->
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.
+- 💻 Interested in frontend and full-stack web development.
+- 🤖 Exploring machine learning and practical AI applications.
+- 🌱 Continuously improving my development skills through hands-on projects.
+- 🎯 Focused on building useful applications and writing clean code.
+- 📫 Email: **prajapatiankit071@gmail.com**
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Languages and Technologies
+
+### Programming Languages
+
 <p align="left">
-<a href="ankit-padit-584a142a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-padit-584a142a1/" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" alt="Programming languages"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend technologies"/>
+</p>
+
+### Backend and Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,firebase" alt="Backend and database technologies"/>
+</p>
+
+### AI, Machine Learning and Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,sklearn" alt="AI and machine learning technologies"/>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Development tools"/>
+</p>
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ankitpadit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitpadit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most used languages"
+  />
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION STREAK ==================== -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=Ankitpadit&theme=tokyonight&hide_border=true"
+    width="75%"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitpadit&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+
+</div>
+
+---
+
+<!-- ==================== GITHUB TROPHIES ==================== -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ankitpadit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
+    width="100%"
+    alt="GitHub trophies"
+  />
+
+</div>
+
+---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <!-- Replace PROJECT_1 and PROJECT_2 with actual repository names -->
+
+  <a href="https://github.com/Ankitpadit/PROJECT_1">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitpadit&repo=PROJECT_1&theme=tokyonight&hide_border=true"
+      alt="Featured project one"
+    />
+  </a>
+
+  <a href="https://github.com/Ankitpadit/PROJECT_2">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitpadit&repo=PROJECT_2&theme=tokyonight&hide_border=true"
+      alt="Featured project two"
+    />
+  </a>
+
+</div>
+
+### 🌧️ AI-Based Landslide Risk Monitoring System
+
+An AI/ML project focused on landslide risk monitoring and early warning for the Northeast Indian region.
+
+- **Domain:** Artificial Intelligence and Machine Learning
+- **Focus:** Landslide risk monitoring and early warning
+- **Data:** Rainfall and landslide event records
+- **Status:** In development
+
+<!-- Add your actual project repository URL when available -->
+
+[View Project](https://github.com/Ankitpadit)
+
+### 💼 More Projects
+
+Explore my repositories for development projects, experiments, and learning work.
+
+<div align="center">
+
+  <a href="https://github.com/Ankitpadit?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ankit-padit-584a142a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Padit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:prajapatiankit071@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+  ### Thanks for visiting my profile! ⭐
+
+  <i>Keep learning. Keep building. Keep improving.</i>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
