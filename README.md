@@ -70,7 +70,7 @@
 ### Backend and Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,firebase" alt="Backend and database technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres" alt="Backend and database technologies"/>
 </p>
 
 ### AI, Machine Learning and Data Science
@@ -82,7 +82,7 @@
 ### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
 </p>
 
 ---
