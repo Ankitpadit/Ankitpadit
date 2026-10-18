@@ -102,42 +102,11 @@
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
-<!--## 🚀 Featured Projects
 
-<div align="center">
 
-  <!-- Replace PROJECT_1 and PROJECT_2 with actual repository names -->
 
-  <a href="https://github.com/Ankitpadit/PROJECT_1">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitpadit&repo=PROJECT_1&theme=tokyonight&hide_border=true"
-      alt="Featured project one"
-    />
-  </a>
 
-  <a href="https://github.com/Ankitpadit/PROJECT_2">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitpadit&repo=PROJECT_2&theme=tokyonight&hide_border=true"
-      alt="Featured project two"
-    />
-  </a>
-
-</div>
-
-### 🌧️ AI-Based Landslide Risk Monitoring System
-
-An AI/ML project focused on landslide risk monitoring and early warning for the Northeast Indian region.
-
-- **Domain:** Artificial Intelligence and Machine Learning
-- **Focus:** Landslide risk monitoring and early warning
-- **Data:** Rainfall and landslide event records
-- **Status:** In development
-
-<!-- Add your actual project repository URL when available -->
-
-[View Project](https://github.com/Ankitpadit)-->
-
-### 💼 More Projects
+### 💼 Projects
 
 Explore my repositories for development projects, experiments, and learning work.
 
