@@ -102,7 +102,7 @@
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
-<--## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
 <div align="center">
 
