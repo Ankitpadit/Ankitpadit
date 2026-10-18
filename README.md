@@ -102,7 +102,7 @@
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
-## 🚀 Featured Projects
+<--## 🚀 Featured Projects
 
 <div align="center">
 
@@ -135,7 +135,7 @@ An AI/ML project focused on landslide risk monitoring and early warning for the 
 
 <!-- Add your actual project repository URL when available -->
 
-[View Project](https://github.com/Ankitpadit)
+[View Project](https://github.com/Ankitpadit)-->
 
 ### 💼 More Projects
 
